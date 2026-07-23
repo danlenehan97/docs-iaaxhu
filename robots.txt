@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danlenehan97.github.io/docs-iaaxhu/sitemap.xml
